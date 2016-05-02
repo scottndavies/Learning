@@ -11,7 +11,7 @@ namespace LearningWithMosh
         static void Main(string[] args)
         {
             int Number = 1;
-            Console.WriteLine("Hello World", Number);
+            Console.WriteLine("Hello World");
         }
     }
 }
