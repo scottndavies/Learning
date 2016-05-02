@@ -12,6 +12,8 @@ namespace LearningWithMosh
         {
             int Number = 1;
             Console.WriteLine("Hello World", Number);
+            Console.WriteLine("Hello Scott");
+            Console.WriteLine("Hello Again");
         }
     }
 }
